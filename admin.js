@@ -26,7 +26,7 @@ global.APIs = {
 ° https://tohka.tech °
 faça login nesse site para conseguir sua apikey
 */
-global.apikey = "key_da_ayu" //bot so funciona com a apikey
+global.apikey = "apikeydosayoprem123" //bot so funciona com a apikey
 
 
 //═══════[modifique]════════\\
